@@ -3,7 +3,7 @@ Recipes Project for The Odin Project
 
 https://www.theodinproject.com/lessons/foundations-recipes 
 
-This is a basic recipe website built in HTML to build some HTML chops. I'll revisit this project and style it up with CSS in the future!
+This is a basic Frankenswitch recipe website built in HTML and CSS to build some basic web-dev chops. This is still a work-in-progress!
 
 https://www.theodinproject.com/about
 
