@@ -5,6 +5,10 @@ html {
     margin-bottom: 3%;
     background-color: rgb(247, 236, 220);
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
 }
 
 h1, h2{
